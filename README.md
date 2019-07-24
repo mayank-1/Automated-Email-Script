@@ -18,5 +18,5 @@ And You are welcome to FORK this repository and make some changes to it.
 
 Happy Coding!
 
-Thanks & Regards,
+Thanks & Regards
 Mayank Kumar
