@@ -1,3 +1,5 @@
+![Mayank's github stats](https://github-readme-stats.vercel.app/api/?username=mayank-1)
+
 # Automated Email Script
 This is a python script which looks for images in a directory on my home screen. And attaches one image and send it to multiple recipients each day. The Entire Process is automated with the help of CRON tool. 
 
@@ -19,7 +21,3 @@ And You are welcome to FORK this repository and make some changes to it.
 Happy Coding!
 
 Thanks & Regards
-
-
-![Mayank's github stats](https://github-readme-stats.vercel.app/api/?username=mayank-1)
-
